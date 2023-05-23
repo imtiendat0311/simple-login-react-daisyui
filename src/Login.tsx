@@ -21,7 +21,7 @@ function Login() {
 </div>
 <div className="form-control ">
   <label className="label cursor-pointer justify-start gap-5">
-  <input type="checkbox" checked="false" class="checkbox checkbox-primary" />
+  <input type="checkbox" className="checkbox checkbox-primary" />
   <span className="label-text">Remember me</span> 
   </label>
 </div>
